@@ -1,0 +1,15 @@
+\begin{tabular}{lllrr}
+\toprule
+                   segment &               features & best model &  R2(train) &  R2(test) \\
+\midrule
+    Dunajska (from centre) &  basic, 0656-1, 0655-2 &        krr &      0.803 &     0.782 \\
+      Dunajska (to centre) &  basic, 0656-2, 0655-1 &        krr &      0.774 &     0.566 \\
+     Ižanska (from centre) &  basic, 0820-1, 1506-1 &        krr &      0.947 &     0.899 \\
+       Ižanska (to centre) &  basic, 0820-2, 1506-2 &        krr &      0.894 &     0.846 \\
+   Slovenska (from centre) &          basic, 0619-1 &        krr &      0.898 &     0.892 \\
+     Slovenska (to centre) &          basic, 0619-2 &        krr &      0.785 &     0.706 \\
+   Škofije (towards Koper) &          basic, 1092-1 &        gbr &      0.895 &     0.867 \\
+ Škofije (towards Trieste) &          basic, 1092-2 &        krr &      0.885 &     0.892 \\
+\bottomrule
+\end{tabular}
+
