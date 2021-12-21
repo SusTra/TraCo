@@ -13,6 +13,12 @@ The main files that can be used to reproduce the results reported in the paper a
 * [```counters_concat.ipynb```](counters_concat.ipynb): merge the Telraam data with inductive loop counters data and weather data per a specific segment.
 * [```regression.ipynb```](regression.ipynb): perform the regression analysis using different regression models.
 * [```analyse_regression_results.ipynb```](analyse_regression_results.ipynb): analyse and visualise the regression results.
+* [```summarize_best_models.ipynb```](summarize_best_models.ipynb): summary of the best models.
+* [`best_models.pickle`](best_models.pickle): implementations of the best models in a `pickle` format; can be loaded by importing `pickle` and using the following code:
+```
+with open('best_models.pickle', 'rb') as handle:
+    best_models = pickle.load(handle)
+```
 
 ## Additional folders
 * [```data```](/data/): data used in the analysis.
