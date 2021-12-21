@@ -14,7 +14,7 @@ The main files that can be used to reproduce the results reported in the paper a
 * [```regression.ipynb```](regression.ipynb): perform the regression analysis using different regression models.
 * [```analyse_regression_results.ipynb```](analyse_regression_results.ipynb): analyse and visualise the regression results.
 * [```summarize_best_models.ipynb```](summarize_best_models.ipynb): summary of the best models.
-* [`best_models.pdf`](best_models.pdf): description of the best models used in our analysis.
+* [`best_models.pdf`](best_models.pdf): description of the best models obtained in our analysis.
 * [`best_models.pickle`](best_models.pickle): implementations of the best models in a `pickle` format; can be loaded by importing `pickle` and using the following code:
 ```
 with open('best_models.pickle', 'rb') as handle:
