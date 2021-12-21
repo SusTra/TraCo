@@ -1,0 +1,123 @@
+\section*{Dunajska (from centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0656-1, 0655-2
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.001
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.001
+\item kernel = chi2
+\end{itemize}
+\section*{Dunajska (to centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0656-2, 0655-1
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.001
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.001
+\item kernel = chi2
+\end{itemize}
+\section*{Ižanska (from centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0820-1, 1506-1
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.0001
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.001
+\item kernel = chi2
+\end{itemize}
+\section*{Ižanska (to centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0820-2, 1506-2
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 1e-05
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.001
+\item kernel = chi2
+\end{itemize}
+\section*{Slovenska (from centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0619-1
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 1.0
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.1
+\item kernel = chi2
+\end{itemize}
+\section*{Slovenska (to centre)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 0619-2
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.0001
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.01
+\item kernel = chi2
+\end{itemize}
+\section*{Škofije (towards Koper)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: gbr
+\item Features: basic, 1092-1
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.9
+\item ccp\_alpha = 0.0
+\item criterion = friedman\_mse
+\item learning\_rate = 0.1
+\item loss = squared\_error
+\item max\_depth = 3
+\item min\_impurity\_decrease = 0.0
+\item min\_samples\_leaf = 1
+\item min\_samples\_split = 2
+\item min\_weight\_fraction\_leaf = 0.0
+\item n\_estimators = 100
+\item subsample = 1.0
+\item tol = 0.0001
+\item validation\_fraction = 0.1
+\item verbose = 0
+\item warm\_start = False
+\end{itemize}
+\section*{Škofije (towards Trieste)}
+\subsection*{Summary}
+\begin{itemize}
+\item Model: krr
+\item Features: basic, 1092-2
+\end{itemize}
+\subsection*{Model parameters}
+\begin{itemize}
+\item alpha = 0.0001
+\item coef0 = 1
+\item degree = 3
+\item gamma = 0.01
+\item kernel = chi2
+\end{itemize}
