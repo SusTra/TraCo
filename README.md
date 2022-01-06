@@ -37,4 +37,4 @@ You should install the following libraries before using this code
 * `statsmodels`
 
 ## How to cite this work
-Please cite this work as *Janež M., Verovšek Š., Zupančič T., Moškon M., "Citizen science for traffic monitoring: Investigating the potentials for complementing traffic counters with crowdsourced data." Sustainability (2022)*
+Please cite this work as *Janež M., Verovšek Š., Zupančič T., Moškon M., "Citizen science for traffic monitoring: Investigating the potentials for complementing traffic counters with crowdsourced data." Sustainability 2022,14, 622. https://doi.org/10.3390/su14020622*
