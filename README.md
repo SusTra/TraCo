@@ -1,4 +1,4 @@
-# Complementing traditional Traffic Counter (TraCo) sources with emergent solutions
+# TRACO: Complementing traditional TRAffic COunter sources with emergent solutions
 
  This repository is supplementing the paper **Citizen science for traffic monitoring: Investigating the potentials for complementing traditional counters with crowdsourced data**.
 
