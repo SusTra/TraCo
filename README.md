@@ -5,8 +5,8 @@
 
 ## Main files
 The main files that can be used to reproduce the results reported in the paper are as follows
-* [`get_telraam_data.ipynb`](get_telraam_data.ipynb): get counters data through the Telraam API.
-* [`get_weather_data.ipynb`](get_weather_data.ipynb): get weather through the visual-crossing-weather API.
+* [`get_telraam_data.ipynb`](get_telraam_data.ipynb): get counters data through the Telraam API (see https://telraam.net/ for further information).
+* [`get_weather_data.ipynb`](get_weather_data.ipynb): get weather through the visual-crossing-weather API (see https://www.visualcrossing.com/weather-api for further information).
 * [`telraam_preprocess.ipynb`](telraam_preprocess.ipynb): preprocess the Telraam data.
 * [`telraam_basic.ipynb`](telraam_basic.ipynb): basic analyses and visualisation of the Telraam data.
 * [`counters_ILC_basic.ipynb`](counters_ILC_basic.ipynb): basic analyses and visualisation of the ILC counters data.
@@ -38,3 +38,6 @@ You should install the following libraries before using this code
 
 ## How to cite this work
 Please cite this work as *Janež M., Verovšek Š., Zupančič T., Moškon M., "Citizen science for traffic monitoring: Investigating the potentials for complementing traffic counters with crowdsourced data." Sustainability 2022,14, 622. https://doi.org/10.3390/su14020622*
+
+## Acknowledgements
+We would like to thank the Municipality of Ljubljana (MOL) and the Ministry of Infrastructure of the Republic of Slovenia for providing us with the traffic data used in this study. We would also like to acknowledge the Telraam team (https://telraam.net/) for making the Telraam data openly available.
