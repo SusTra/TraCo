@@ -1,0 +1,90 @@
+############
+# DUNAJSKA #
+############
+
+# Dunajska 2 (iz centra)
+#
+# števec MOL
+# 1003-116-1
+# Vozni pas: UL. 7.SEPTEMBRA - STOZENSKA (V)
+# Prehitevalni pas: UL. 7.SEPTEMBRA - STOZENSKA  (P)
+#
+# telraam
+# 9000000656-1: https://telraam.net/en/location/9000000656 (iz centra - osnovna smer)
+Dunajska (from centre);1003-116-1;9000000656-1;9000000655-2
+
+# Dunajska 1 (v center)
+#
+# števec MOL
+# 1004-136-1
+# Vozni pas: UL. 7.SEPTEMBRA - STOZENSKA (V)
+# Prehitevalni pas: UL. 7.SEPTEMBRA - STOZENSKA  (P)
+#
+# telraam
+# 9000000656-2: https://telraam.net/en/location/9000000656 (v center-neosnovna smer)
+Dunajska (to centre);1004-136-1;9000000656-2;9000000655-1
+
+######
+# IG #
+######
+
+# Ig 1 (proti jugu - od mesta)
+#
+# števec MOL
+#	1040-236-1
+#  	Smer 1: Uršičev štradon > Lahova pot (proti jugu)
+#
+# telraam
+# 9000001506-1: https://telraam.net/en/location/9000001506  (proti jugu)
+# 9000000820-1: https://telraam.net/en/location/9000000820  (proti jugu)
+Ižanska (from centre);1040-236-1;9000000820-1;9000001506-1
+
+# Ig 2 (proti severu - proti mestu)
+#Smer 2: Lahova pot > Uršičev štradon (proti severu)
+Ižanska (to centre);1040-236-2;9000000820-2;9000001506-2
+
+
+#############
+# SLOVENSKA #
+#############
+
+
+# S2_CENTER>Trnovo  1026-136 excel; 1025-116 text 
+Slovenska (from centre);1026-136-1;9000000619-1
+
+# S1_TRNOVO>V CENTER  1025-116 excel; 1026-136 text 
+# telraam
+# 9000000610-2: https://telraam.net/en/location/9000000619 (proti centru)
+Slovenska (to centre);1025-116-1;9000000619-2
+
+#########
+# KOPER #
+#########
+#
+# 686-1
+# ŠKOFIJE - Rondo ŠKOFIJE
+# proti Kopru
+#
+# Telraam
+# https://telraam.net/en/location/9000001092
+# A (Škofije) --> B (Rondo)
+# proti Kopru
+Škofije (towards Koper);686-1;9000001092-1
+
+#########
+# KOPER #
+#########
+#
+# 686-2
+# Rondo ŠKOFIJE - ŠKOFIJE
+# proti Trstu
+#
+# Telraam
+# https://telraam.net/en/location/9000001092
+# B (Rondo) --> A (Škofije)
+# proti Trstu
+Škofije (towards Trieste);686-2;9000001092-2
+
+
+
+
